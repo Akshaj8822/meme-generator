@@ -8,13 +8,15 @@ This repository contains the frontend application for a Meme Generator. This int
 
 See the Meme Generator live in your browser:
 
-![Meme Generator Application](Screenshot 2025-07-27 113108.png)
+<img width="960" height="481" alt="Screenshot 2025-07-27 113041" src="https://github.com/user-attachments/assets/040e853e-8b0d-4580-93f6-27d42ba56c2a" />
+
 
 ### Development Setup Screenshot
 
 Here's a glimpse of the development server running locally:
 
-![Development Server Running](Screenshot 2025-07-27 113041.png)
+<img width="524" height="284" alt="Screenshot 2025-07-27 113108" src="https://github.com/user-attachments/assets/0dd7306f-882f-4861-ad3c-d53ac6deb603" />
+
 
 ## Features
 
